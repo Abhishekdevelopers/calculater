@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Baloo+2&family=Potta+One&family=Roboto:wght@100;300&family=Ubuntu+Condensed&display=swap');
+html, body{
+    height: 100%;
+    width: 100%;
+    font-family: 'Roboto', sans-serif;
+    background-color: aquamarine;
+}
+.button{
+    padding: 20px;
+    width: 60px;
+    margin: 0px 3px;
+    border: 2px solid black;
+    border-radius: 15px;
+    cursor: pointer;
+    background-color: aqua;
+
+}
+.row{
+margin: 8px 0px;
+}

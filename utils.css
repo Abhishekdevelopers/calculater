@@ -1,0 +1,32 @@
+.text-center{
+    text-align: center;
+}
+.bg-red{
+    background: red;
+}
+.mx-auto{
+    margin: auto;
+}
+
+.felx{
+display: flex ;
+}
+.felx-col{
+flex-direction: column;
+}
+.items-center{
+align-items: center;
+}
+/* .input{
+    width: 17vw;
+height: 10vh;
+} */
+.row input{
+    margin: 0;
+    font-size: 25px;
+    padding: 15px 0px;
+    border: 2px solid black;
+    border-radius: 10px;
+    color: #1e0cf2;
+    padding-left: 10px;
+}
